@@ -1,20 +1,29 @@
-# HtmlElementAttributes
+<h1 align="center">HTML Element Attributes</h1>
 
-Python port of npm package [html-element-attributes](https://www.npmjs.com/package/html-element-attributes).
+<h4 align="center">List of known HTML tag attribute names.</h4>
 
-List of known HTML tag attribute names.
+<h5 align="center">Python port of npm package <a href="https://www.npmjs.com/package/html-element-attributes" target="_blank">html-element-attributes</a>.</h5>
 
-## What is this?
+<p align="center">
+  <a href="https://pypi.org/project/html-element-attributes/">
+    <img src="https://badgen.net/pypi/v/html-element-attributes" alt="Pypi Version">
+  </a>
+  <a href="https://pepy.tech/project/html-element-attributes">
+    <img src="https://static.pepy.tech/badge/html-element-attributes" alt="Downloads">
+  </a>
+</p>
+
+## 🤔 What is this?
 
 This is a list of HTML tag attribute names.
 
-## Install
+## 💾 Install
 
 ```sh
 pip install html-element-attributes
 ```
 
-## Use
+## ✨ How to Use
 
 ```py
 from HtmlTagNames import html_element_attributes
@@ -39,7 +48,7 @@ Yields:
 ```
 ## License
 
-[GPL][license] © Riverside Healthcare
-Ported from `html-element-attributes` [MIT][LICENSE] © [Titus Wormer][https://github.com/wooorm]
+- [GPL][license] © Riverside Healthcare
+- Ported from `html-element-attributes` [MIT][LICENSE] © [Titus Wormer](https://github.com/wooorm)
 
 [license]: LICENSE

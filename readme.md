@@ -26,7 +26,7 @@ pip install html-element-attributes
 ## ✨ How to Use
 
 ```py
-from HtmlTagNames import html_element_attributes
+from HtmlElementAttributes import html_element_attributes
 
 print(html_element_attributes["*"])
 ```

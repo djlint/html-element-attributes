@@ -1,6 +1,6 @@
 {
   "name": "html-element-attributes",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "List of known HTML tag attribute names.",
   "main": "index.js",
   "private": true,
@@ -28,7 +28,7 @@
     "@semantic-release/npm": "10.0.5",
     "@semantic-release/release-notes-generator": "11.0.4",
     "cz-conventional-changelog": "3.3.0",
-    "semantic-release": "21.1.0"
+    "semantic-release": "21.1.1"
   },
   "config": {
     "commitizen": {
